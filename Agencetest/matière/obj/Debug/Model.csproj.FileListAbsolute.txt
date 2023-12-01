@@ -1,0 +1,6 @@
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\matière\bin\Debug\matière.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\matière\bin\Debug\matière.pdb
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\matière\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\matière\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\matière\obj\Debug\matière.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\matière\obj\Debug\matière.pdb

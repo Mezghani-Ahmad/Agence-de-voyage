@@ -1,0 +1,9 @@
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\obj\Debug\DOA.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\obj\Debug\DOA.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\bin\Debug\DOA.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\bin\Debug\DOA.pdb
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\bin\Debug\matière.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\bin\Debug\matière.pdb
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\obj\Debug\DOA.csproj.CopyComplete
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\obj\Debug\DOA.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\DOA\obj\Debug\DOA.pdb

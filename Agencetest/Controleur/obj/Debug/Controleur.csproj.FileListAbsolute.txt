@@ -1,0 +1,11 @@
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\obj\Debug\Controleur.csproj.AssemblyReference.cache
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\obj\Debug\Controleur.csproj.CoreCompileInputs.cache
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\bin\Debug\Controleur.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\bin\Debug\Controleur.pdb
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\bin\Debug\DOA.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\bin\Debug\matière.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\bin\Debug\DOA.pdb
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\bin\Debug\matière.pdb
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\obj\Debug\Controleur.csproj.CopyComplete
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\obj\Debug\Controleur.dll
+C:\Users\MSI\Documents\C#\Meztest\Agencetest\Controleur\obj\Debug\Controleur.pdb
